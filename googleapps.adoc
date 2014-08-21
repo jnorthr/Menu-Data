@@ -1,0 +1,76 @@
+== Google AppEngine
+
+http://www.google.com/support/a/bin/answer.py?hl=en&answer=91077&topic=22150[About Google App Engine]
+
+http://books.google.fr/books?id=zFtuXftEKz0C&pg=PA15&dq=com.google.appengine.api.datastore+key&hl=en&ei=We_gTvazA8rD8QOVveHQBA&sa=X&oi=book_result&ct=result&resnum=6&ved=0CE8Q6AEwBQ#v=onepage&q=com.google.appengine.api.datastore%20key&f=false[Begin Java 4 Google App Engine]
+
+http://www.google.com/support/a/bin/answer.py?answer=183895[Create TXT in Google]
+
+http://www.datanucleus.org/products/accessplatform/enhancer.html[Data Nucleus]
+
+http://code.google.com/appengine/docs/java/datastore/entities.html#Properties_and_Value_Types[Datastore Property Types]
+
+http://code.google.com/appengine/docs/java/datastore/jdo/dataclasses.html[Define Java Data classes 4 GAE using JDO]
+
+http://code.google.com/appengine/articles/domains.html[Deploying your Application on your Google Apps URL]
+
+http://code.google.com/appengine/docs/java/config/webxml.html[Deployment Descriptor - web.xml]
+
+http://code.google.com/appengine/docs/java/datastore/entities.html#Kinds_IDs_and_Names[GAE Entities, Properties, and Keys]
+
+http://code.google.com/appengine/community.html[GAE Forums]
+
+https://github.com/AlbertBertilsson/GAE-KVS/tree/master/application/war/WEB-INF[GAE KVS Tut]
+
+http://code.google.com/webtoolkit/gettingstarted.html[GWT Tut]
+
+http://code.google.com/webtoolkit/gettingstarted.html[Get Started with the GWT SDK]
+
+https://github.com/AlbertBertilsson/GAE-KVS/tree/master/application/war/WEB-INF[GitHub Sample of Simple GAE KVS]
+
+https://www.godaddy.com/default.aspx[Godaddy]
+
+http://community.godaddy.com/help/article/5444[Godaddy Checking Your MX Record Settings]
+
+http://community.godaddy.com/help/680?locale=en[Godaddy Managing DNS]
+
+http://groups.google.com/group/google-appengine[Google App Engine Forum]
+
+http://code.google.com/appengine/kb/general.html#cron[Google App Engine General Questions]
+
+http://code.google.com/appengine/docs/java/datastore/jdo/dataclasses.html[Google AppEngine JDO]
+
+http://www.google.com/support/forum/p/Google%20Apps/thread?tid=2f27a7fc581bd9c8&hl=en[Google Apps Finding Security Tokens]
+
+http://fredsa.allen-sauer.com/2009/04/1st-look-at-app-engine-using-jdo.html[Google Apps JDP+JPA Example]
+
+https://appengine.google.com/[Google Apps Overview]
+
+http://domailinfo.appspot.com/#order[Google Code Lab Example 3 - Version 2]
+
+http://www.google.com/events/io/2010/sandbox.html[Google I/O 2010]
+
+http://www.google.com/events/io/2010/sandbox.html[Google I/O Sandbox]
+
+http://www.google.com/support/accounts/bin/answer.py?answer=27444&hl=en&ctx=ch_ServiceLoginAuth&p=ah[Google Passwords]
+
+http://www.google.com/webfonts#ChoosePlace:select[Google Web Fonts - free]
+
+http://googcloudlabs.appspot.com/codelabexercise3.html[Google XMPP, Mail and Task Queues Lab3]
+
+http://en.wikipedia.org/wiki/MX_record[MX Record Wiki]
+
+https://www.google.com/a/cpanel/standard/selectDomain?existingDomain=www.domail.info&newDomain=false&ownDomain=true[To sign up for Google Apps]
+
+http://books.google.fr/books?id=zFtuXftEKz0C&pg=PA15&dq=com.google.appengine.api.datastore+key&hl=en&ei=We_gTvazA8rD8QOVveHQBA&sa=X&oi=book_result&ct=result&resnum=6&ved=0CE8Q6AEwBQ#v=onepage&q=com.google.appengine.api.datastore%20key&f=false[Using Java in GAE (book)]
+
+https://www.google.com/a/cpanel/domail.info/VerifyAdminAccountPasswordReset[Verify that you own domail.info]
+
+http://www.google.com/support/forum/p/Google+Apps/thread?tid=0452777198ed2124&hl=en[Verifying a domain alias]
+
+http://code.google.com/googleapps/appsscript/guide_writing_scripts.html[Writing Google App Scripts]
+
+http://code.google.com/appengine/docs/java/javadoc/com/google/appengine/api/mail/MailService.html[com.google.appengine.api.mail Interface MailService]
+
+http://books.google.fr/books?id=zFtuXftEKz0C&pg=PA15&dq=com.google.appengine.api.datastore+key&hl=en&ei=We_gTvazA8rD8QOVveHQBA&sa=X&oi=book_result&ct=result&resnum=6&ved=0CE8Q6AEwBQ#v=onepage&q=com.google.appengine.api.datastore%20key&f=false[google.appengine.api.datastore key]
+

@@ -1,0 +1,32 @@
+== H T M L 5   M e n u
+
+http://960.gs/[960.GS]
+
+http://www.webdesignerdepot.com/2010/03/fight-div-itis-and-class-itis-with-the-960-grid-system/[Fight DIV-ites w/960.GS]
+
+http://tom.preston-werner.com/2009/05/19/the-git-parable.html[Git Explained]
+
+http://net.tutsplus.com/tutorials/other/getting-the-hang-of-github/[GitHub - How Does It Work?]
+
+https://github.com/[GitHub Home]
+
+http://html5boilerplate.com/[HTML5 Bioler Plate Builder]
+
+http://gitref.org/remotes/#remote[How Does Git Remote Work?]
+
+http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/[Intro To GitHub]
+
+https://github.com/jnorthr/Menus[Jnorthr Menus on GitHub]
+
+http://mac.github.com/help[Mac Help on GitHub]
+
+http://www.ibm.com/developerworks/web/library/wa-html5fundamentals/index.html[Nice IBM Overview Part 1]
+
+http://www.ibm.com/developerworks/web/library/wa-html5fundamentals4/index.html[Part 4 - Canvas]
+
+http://www.ibm.com/developerworks/web/library/wa-html5fundamentals3/index.html[Part Three - Geolocation]
+
+http://www.ibm.com/developerworks/web/library/wa-html5fundamentals2/index.html[Part Two]
+
+http://encosia.com/updated-see-how-i-used-firebug-to-learn-jquery/[Use Firebug in Firefox to Quick Dev]
+

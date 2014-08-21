@@ -1,0 +1,40 @@
+== JQuery Menu
+
+http://www.html-form-guide.com/contact-form/creating-a-contact-form.html[Creating a contact form for your website]
+
+http://flowplayer.org/plugins/index.html[Flow Player Plug Ins 4 JQ]
+
+http://net.tutsplus.com/tutorials/javascript-ajax/how-to-use-the-jquery-ui-autocomplete-widget/[How to Use the jQuery UI Autocomplete]
+
+http://docs.jquery.com/UI/Autocomplete[JQ 1.8 Autocomplete]
+
+http://api.jquery.com/jQuery.ajax/[JQ Ajax API]
+
+http://www.ajaxdaddy.com/demo-jquery-autocomplete.html[JQ Ajax Autocomplete]
+
+http://jqueryui.com/demos/autocomplete/#method-search[JQ Autocomplete]
+
+http://twitter.github.com/bootstrap/javascript.html#popovers[JQ Bootstrap 4 Twitter]
+
+http://webcloud.se/code/jQuery-Collapse/[JQ Collapse(like Accordion)]
+
+http://flowplayer.org/tools/demos/overlay/styling.html[JQ Tools Overlay]
+
+http://flowplayer.org/tools/download/index.html[JQ Tools in Flowplayer]
+
+http://api.jquery.com/jQuery.getJSON/[JQuery GetJson()]
+
+http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-jquery-newbs-stop-jumping-in-the-pool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29&utm_content=Google+UK[JQuery Tips]
+
+http://www.html-form-guide.com/jquery/drop-down-list-jquery.html[Loading a Drop Down List Using jQuery]
+
+http://www.mkyong.com/tutorials/jquery-tutorials/[MKyong JQuery Tuts]
+
+http://ajaxload.info/[Make Animated Ajax GIFs]
+
+http://www.mkyong.com/jquery/jquery-html-example/[Mkyong JQ Html Example]
+
+http://www.mkyong.com/jquery/jquery-form-selectors-example/[Mkyong form selectors]
+
+http://www.mkyong.com/jquery/how-to-create-a-tooltips-with-jquery/[Tooltip Tut]
+

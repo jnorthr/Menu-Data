@@ -1,0 +1,8 @@
+== J a v a   M e n u
+
+http://netbeans.org/kb/docs/java/gui-db.html[Building a Java Desktop Database Application]
+
+http://download.oracle.com/javase/tutorial/networking/urls/creatingUrls.html[Create URL in Java]
+
+http://download.oracle.com/javase/6/docs/api/java/awt/Desktop.html#browse%28java.net.URI%29[Java Class Desktop]
+

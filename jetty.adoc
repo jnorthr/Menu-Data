@@ -1,0 +1,10 @@
+== Jetty Web Server Links 2
+
+http://download.oracle.com/docs/cd/E19776-01/820-4867/ggnxe/index.html[Jersey RESTful Web Services]
+
+http://docs.codehaus.org/display/JETTY/Continuations[Jetty Ajax Continuations]
+
+http://www.webtide.com/choose/jetty.jsp[Jetty vs Tomcat]
+
+http://docs.codehaus.org/display/JETTY/Newbie+Guide+to+Jetty#NewbieGuidetoJetty-Connectors%28required%29[Newbie Guide to Jetty]
+

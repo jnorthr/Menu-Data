@@ -1,0 +1,58 @@
+== Play Framework Org
+
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-16/index.html[IBM Java AMS Elastic Bean]
+
+www.ibm.com/developerworks/java/library/j-javadev2-16/index.html[IBM Play Tutorial]
+
+www.ibm.com/developerworks/java/library/j-javadev2-19/[IBM Tutorial on Play]
+
+/Users/jim/Desktop/writings.txt/playframework.txt[My Play Notes]
+
+nano Post.java[Nano Post.java]
+
+http://localhost:8080/GroovyWebApplication/[Netbeans Tomcat Fluid 960 App]
+
+https://groups.google.com/forum/#!searchin/play-framework/derby/play-framework/wkbuyxvvXTM/1Vja8lIlrycJ[Play 1.2.4 google Groups]
+
+http://groups.google.com/group/play-framework/browse_thread/thread/8cdca8216bffc464[Play 2.0 - Google Groups]
+
+http://www.playframework.org/community/planet[Play Community Forum]
+
+http://localhost:9000/@documentation/home[Play Docs Home]
+
+http://www.playframework.org/documentation/1.2.3/main[Play Documentation]
+
+http://www.playframework.org/documentation/1.2.3/guide1[Play Documentation Guide]
+
+http://localhost:9000/@documentation/guide4[Play Documentation:9000]
+
+http://groups.google.com/group/play-framework[Play Forum Google Groups]
+
+https://groups.google.com/forum/?hl=en-GB#!forum/play-framework[Play Framework in Google Groups]
+
+http://www.playframework.org/[Play Home]
+
+http://localhost:9000/[Play Home - Localhost:9000]
+
+http://localhost:9000/[Play Localhost:9000]
+
+
+http://localhost:9000/@documentation/guide4[Play localhost:9000 docs : guide4]
+
+http://viralpatel.net/blogs/2011/01/first-play-framework-gae-siena-application-tutorial-example.html[Play with GAE Siena]
+
+http://code.google.com/p/rest-client/downloads/list[Rest-client test RESTful Services]
+
+.Notes
+----
+cd /Volumes/Data/dev/play/play-1.2.3/apps/yabe[CD to Path to Play Sample]
+
+go github[Heroku Database-driven web apps with Play]
+
+play run[Run Play Server]
+
+http://localhost:9000/[Your App is Ready]
+
+cd /Volumes/Data/dev/play/play-1.2.3/apps/yabe/app/models[Play Tutorial Path]
+----

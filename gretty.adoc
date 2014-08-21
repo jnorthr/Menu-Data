@@ -1,0 +1,16 @@
+== G r e t t y   M e n u
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-20/index.html#resources[Gretty Web Services 2.0]
+
+https://github.com/groovypp/gretty/wiki/Getting-Started[Gretty on GitHub]
+
+http://groups.google.com/group/gretty[Gretty on Google Groups]
+
+http://groovy.dzone.com/articles/groovy-action[Groovy++ Gretty Rest Websockets]
+
+http://groovy.dzone.com/articles/512000-concurrent-websockets[Groovy++ and Gretty 512k Connections]
+
+http://www.jboss.org/netty.html[Netty Sockets & Servers]
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-20/index.html[Ultra-lightweight Java web services with Gretty]
+

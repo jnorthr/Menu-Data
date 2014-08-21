@@ -1,0 +1,12 @@
+== Forms & Formats
+
+http://formalize.me/[Formalize.me]
+
+http://www.tizag.com/javascriptT/javascriptform.php[Javascript Form Validation]
+
+http://www.devx.com/Java/Article/38509/1954[YAML for Java Developers]
+
+http://groovy.codehaus.org/Yaml+and+Groovy[Yaml & Groovy]
+
+http://en.wikipedia.org/wiki/YAML[Yaml Wiki]
+

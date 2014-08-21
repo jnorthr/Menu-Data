@@ -1,0 +1,20 @@
+== Gaelyk Menu
+
+http://gaelyk.appspot.com/tutorial/views-and-controllers#gaelykBindings[Controller Bindings]
+
+http://gaelyk.appspot.com/tutorial/app-engine-shortcuts#files-misc[GAE AppEngine Shortcuts]
+
+http://gaelyk.appspot.com/tutorial/app-engine-shortcuts#entity[GAE Shortcuts]
+
+http://groups.google.com/group/gaelyk?pli=1[Gaelyk Google Groups Forum]
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-6/#download[Gaelyk for Google App Engine]
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-6/#download[IBM Tut on Gaelyk]
+
+http://stackoverflow.com/questions/3006732/servletcontext-getresource-not-working[ServletContext.getResource]
+
+http://globalgateway.wordpress.com/2010/10/21/simple-crud-with-gaelyk/[Simple CRUD with Gaelyk]
+
+http://www.java2s.com/Tutorial/Java/0400__Servlet/ServletWebXMLContextInitParameter.htm[Web XML Context Init Parameter]
+

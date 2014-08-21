@@ -1,0 +1,8 @@
+== J i m ' s   M e n u Options
+
+http://jsonlint.com/[Online JSON Validator]
+
+http://www.kuligowski.pl/java/rest-style-urls-and-url-mapping-for-static-content-apache-tomcat,5[URL mapping for static content in web services]
+
+http://stackoverflow.com/questions/7938138/what-if-url-pattern-matches-multiple-servlets[url pattern matches multiple servlets]
+

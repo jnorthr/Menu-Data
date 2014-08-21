@@ -1,0 +1,32 @@
+== Misc. Links
+
+http://www.itlnet.net/programming/program/Reference/c53g01c/menu.html[CA-Clipper 5.3 - Guide To CA-Clipper]
+
+http://javascript.about.com/library/blip.htm[Find I/P Addresses]
+
+http://groovy.codehaus.org/groovy-jdk/java/lang/Process.html#consumeProcessOutput()[Groovy Process Mgmt]
+
+http://groovy.dzone.com/articles/groovy-action[Groovy++ Gretty Rest Websockets]
+
+http://www.heroku.com/[Heroku Cloud Services]
+
+http://onjava.com/pub/a/onjava/excerpt/AntTDG_chap8/index1.html[How To Deploy Web Service WAR]
+
+http://www.ibm.com/developerworks/web/library/wa-reverseajax4/?cmp=dw&cpb=dwwdv&ct=dwnew&cr=dwnen&ccy=zz&csr=090811[IBM Reverse Ajax Tut]
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-16/index.html[Java Beanstalk on GAE & Amazon Cloud]
+
+http://download.oracle.com/docs/cd/E19776-01/820-4867/ggnxe/index.html[Jersey RESTful Web Services]
+
+http://localhost:8080/GroovyWebApplication/[Netbeans Tomcat Fluid 960 App]
+
+http://www.jboss.org/netty.html[Netty Sockets & Servers]
+
+http://pleac.sourceforge.net/pleac_groovy/processmanagementetc.html[Pleac Process Examples]
+
+http://code.google.com/p/rest-client/downloads/list[Rest-client to test RESTful Webservices]
+
+http://download.oracle.com/javaee/5/api/javax/servlet/ServletRequest.html[Servlet Request JavaDoc]
+
+https://help.ubuntu.com/community/EnvironmentVariables[Ubuntu Environment Variables]
+

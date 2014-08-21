@@ -1,0 +1,6 @@
+== GroovyServ Menu
+
+http://kobo.github.com/groovyserv/download.html#ref-download[Groovyserv Downloads]
+
+http://kobo.github.com/groovyserv/userguide_en.html#ref-userguide[Groovyserv User Guide]
+

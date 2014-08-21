@@ -1,0 +1,16 @@
+== Email Menu
+
+http://java.sun.com/developer/onlineTraining/JavaMail/contents.html#JavaMailMessage[Fundamentals of Java Mail]
+
+http://googcloudlabs.appspot.com/codelabexercise3.html[Google App Engine Tut Ex3: XMPP, Mail and Task Queues]
+
+http://www.oracle.com/technetwork/java/faq-135477.html#readattach[JavaMail API]
+
+http://blog.mattwoodward.com/leveraging-google-app-engine-mail-and-xmpp-se[Leveraging Google App Engine Mail]
+
+http://kb.mailchimp.com/article/how-to-code-html-emails[MailChimp HTML Emails]
+
+http://www.javapractices.com/topic/TopicAction.do?Id=179[Send trouble-ticket emails]
+
+http://docs.oracle.com/javaee/1.3/api/javax/servlet/ServletContext.html[javax Servlet Context API Javadocs]
+

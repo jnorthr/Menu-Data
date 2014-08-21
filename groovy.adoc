@@ -1,0 +1,54 @@
+== G r o o v y   M e n u
+
+http://eclipsezone.com/forums/thread.jspa?messageID=92099076[Closure Discussions]
+
+http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/[Execute Shell Cmds in Groovy]
+
+http://groovy.codehaus.org/Grape[Grape]
+
+http://groovy.codehaus.org/api/groovy/sql/Sql.html[Groovt 1.8.4 SQL]
+
+http://groovy.codehaus.org/Closures+-+Informal+Guide[Groovy Closures]
+
+http://www.slideshare.net/paulk_asert/groovydsls[Groovy DSL's]
+
+http://www.groovyexamples.org/2010/04/18/create-a-simple-loop/[Groovy Examples]
+
+http://code.google.com/p/gae-groovy-book-service/source/browse/trunk/src/org/everrest/sample/groovy/Book.groovy?spec=svn8&r=8[Groovy GAE Book Service tut]
+
+http://www.ibm.com/developerworks/java/library/j-pg10255/index.html[Groovy Overload Operators]
+
+http://groovy.codehaus.org/groovy-jdk/java/lang/Process.html#consumeProcessOutput()[Groovy Process Mgmt]
+
+http://groovy.codehaus.org/api/groovy/sql/Sql.html[Groovy SQL Examples]
+
+http://www.ibm.com/developerworks/java/library/j-pg05245/[Groovy Samples]
+
+http://blog.kartikshah.info/2010/01/groovy-truth_05.html[Groovy Truth]
+
+http://groovy.codehaus.org/Scoping+and+the+Semantics+of+%22def%22[Groovy def Scoping Issues]
+
+http://groovy.codehaus.org/Yaml+and+Groovy[Groovy+Yaml]
+
+http://groovy.dzone.com/news/domain-specific-language-unit-[Guillame LaForge Discusses DSL's]
+
+http://www.ibm.com/developerworks/java/library/j-pg03155/[IBM tut - Go server-side up with Groovy]
+
+http://www.ibm.com/developerworks/java/library/j-javadev2-1/index.html[IBM tut Hello Google App Engine 2.0 Groovy, Eclipse, and JDO]
+
+http://download.oracle.com/javase/1.5.0/docs/api/java/lang/ProcessBuilder.html[Java ProcessBuilder Docs]
+
+http://www.springone2gx.com/blog/guillaume_laforge/2010/08/nicer_dsls_in_groovy_1_8_thanks_to_extended_command_expressions[More DSL Info]
+
+http://mrhaki.blogspot.com/2009/08/add-client-side-caching-to-groovlets.html[MrHaki Add Client Side Caching to Groovlets]
+
+http://mrhaki.blogspot.com/2009/11/add-file-upload-support-to-groovlets-in.html[MrHaki GAE Add File Upload Support to Groovlets]
+
+http://mrhaki.blogspot.com/2009/08/grassroots-groovy-templating-route.html[MrHaki GTPL: the Templating Route]
+
+http://mrhaki.blogspot.com/2009/09/groovy-goodness-parameters-with-default.html#uds-search-results[MrHaki Groovy Parameters with Default Values]
+
+http://mrhaki.blogspot.com/2010/12/groovy-goodness-transform-string-into.html[MrHaki: Transform String into Enum]
+
+http://download.oracle.com/javaee/5/api/javax/servlet/ServletRequest.html[Servlet Request JavaDoc]
+
