@@ -1,4 +1,4 @@
-Java, Javascript, CSS Stylesheets, Beans, Menus & ProcessBuilder:=*MENUTITLE
+Java, Javascript, CSS Stylesheets, Beans, Menus & ProcessBuilder:= *MENUTITLE
 Foreground Text Color:=open http://www.java2s.com/Code/Java/Swing-JFC/Foregroundcolor.htm
 Style Contexts:=open http://download.oracle.com/javase/1.4.2/docs/api/javax/swing/text/StyleContext.html
 JTextPane Styles:=open http://www.java2s.com/Code/Java/Swing-JFC/JTextPaneStylesExample1.htm
@@ -20,7 +20,6 @@ Java Process Example:=open /Volumes/Data/dev/java/ProcessTimeoutExample.java
 Column Support for Menus:=open /Volumes/Data/dev/groovy/Menus/ColumnSupport.groovy
 Menu Entry Trial groovy:=open /Volumes/Data/dev/groovy/Menus/MenuEntry.groovy
 Edit This Menu:=open /Volumes/Data/dev/groovy/menudata/stylesheets.txt
-Grep:=grep getMenuCommand /Volumes/Data/dev/groovy/Menus/*.groovy
 Beautiful CSS3 Buttons:=open http://designlovr.com/beautiful-photoshop-like-buttons-with-css3/
 CSS3 Gradient Buttons -Webdesigner Wall:=open http://webdesignerwall.com/tutorials/css3-gradient-buttons
 

@@ -12,7 +12,6 @@ Groovy Overload Operators:=open http://www.ibm.com/developerworks/java/library/j
 Groovy Samples:=open http://www.ibm.com/developerworks/java/library/j-pg05245/
 Groovy Examples:=open http://www.groovyexamples.org/2010/04/18/create-a-simple-loop/
 Execute Shell Cmds in Groovy:=open http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/
-Groovy Console:=/Volumes/Data/dev/groovy/groovy-1.8.0/bin/groovyConsole
 Groovy Process Mgmt:=http://groovy.codehaus.org/groovy-jdk/java/lang/Process.html#consumeProcessOutput()
 MrHaki GAE Add File Upload Support to Groovlets:=open http://mrhaki.blogspot.com/2009/11/add-file-upload-support-to-groovlets-in.html
 MrHaki: Transform String into Enum:=open http://mrhaki.blogspot.com/2010/12/groovy-goodness-transform-string-into.html

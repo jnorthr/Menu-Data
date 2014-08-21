@@ -3,7 +3,7 @@ JQuery GetJson():=open http://api.jquery.com/jQuery.getJSON/
 Loading a Drop Down List Using jQuery:=open http://www.html-form-guide.com/jquery/drop-down-list-jquery.html
 Creating a contact form for your website:=open http://www.html-form-guide.com/contact-form/creating-a-contact-form.html
 JQuery Tips:=open http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-jquery-newbs-stop-jumping-in-the-pool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29&utm_content=Google+UK
-Tooltip Tut:=open  http://www.mkyong.com/jquery/how-to-create-a-tooltips-with-jquery/
+Tooltip Tut:=open http://www.mkyong.com/jquery/how-to-create-a-tooltips-with-jquery/
 Loading a Drop Down List Using jQuery:=open http://www.html-form-guide.com/jquery/drop-down-list-jquery.html
 Creating a contact form for your website:=open http://www.html-form-guide.com/contact-form/creating-a-contact-form.html
 MKyong JQuery Tuts:=open http://www.mkyong.com/tutorials/jquery-tutorials/

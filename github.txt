@@ -9,17 +9,7 @@ Mac Help on GitHub:=open http://mac.github.com/help
 Git: push rejected non-fast forward:=open http://rip747.wordpress.com/2009/04/20/git-push-rejected-non-fast-forward/
 SHARING AND UPDATING GitHub Projects:=open http://gitref.org/remotes/
 Easy Version Control with Git:=open http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
-git branch:=git branch
-git checkout fixGitHubMenu:=git checkout fixGitHubMenu
-apply code fixes:=*RED
-add to git staging area:=git add .
-git commit:=git commit -m 'Revised Several Menus'
-push to git server @origin:=git push origin master
 GitHub Public Keys:=open https://github.com/account/ssh
 git help ssh issues:=open http://help.github.com/ssh-issues/
 github play siena:=open https://github.com/mandubian/play-siena/tree/master/samples-and-tests
-git init:=git init
-git add conf lib public test:=git add conf lib public test
-git init commit:= git commit -m init
-git push:=git push heroku master
 

@@ -23,7 +23,7 @@ Using Java in GAE (book):=open http://books.google.fr/books?id=zFtuXftEKz0C&pg=P
 Google Apps Overview:=open https://appengine.google.com/
 GitHub Sample of Simple GAE KVS:=open https://github.com/AlbertBertilsson/GAE-KVS/tree/master/application/war/WEB-INF
 Define Java Data classes 4 GAE using JDO:=open http://code.google.com/appengine/docs/java/datastore/jdo/dataclasses.html
-Google I/O Sandbox:=www.google.com/events/io/2010/sandbox.html
+Google I/O Sandbox:=http://www.google.com/events/io/2010/sandbox.html
 Google I/O 2010:=open http://www.google.com/events/io/2010/sandbox.html
 Begin Java 4 Google App Engine:=open http://books.google.fr/books?id=zFtuXftEKz0C&pg=PA15&dq=com.google.appengine.api.datastore+key&hl=en&ei=We_gTvazA8rD8QOVveHQBA&sa=X&oi=book_result&ct=result&resnum=6&ved=0CE8Q6AEwBQ#v=onepage&q=com.google.appengine.api.datastore%20key&f=false
 Google AppEngine JDO:=open http://code.google.com/appengine/docs/java/datastore/jdo/dataclasses.html
