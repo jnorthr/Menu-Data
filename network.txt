@@ -1,6 +1,0 @@
-N e t w o r k   M e n u:=*MENUTITLE
-Godaddy Managing DNS:=open http://community.godaddy.com/help/680?locale=en
-Godaddy:=open https://www.godaddy.com/default.aspx
-
-
-

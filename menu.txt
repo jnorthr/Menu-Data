@@ -1,7 +1,0 @@
-Java 7 - How to make a new environment:=open http://java.sun.com/javase/7/docs/api/java/lang/ProcessBuilder.html
-How gridbag works:=http://mindprod.com/jgloss/gridbaglayout.html
-Groovy Blog:=http://naleid.com/blog/category/groovy/page/2/
-Main Menu for You:=*MENUTITLE
-11 Nice Tools:=open http://net.tutsplus.com/articles/general/9-ways-to-instantly-code-faster/
-
-

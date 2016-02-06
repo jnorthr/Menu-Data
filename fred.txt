@@ -1,4 +1,0 @@
-Groovy T a l k   M e n u:=*MENUTITLE
-Paul King's Groovy Discussion:=open http://www.slideshare.net/paulk_asert/
-
-

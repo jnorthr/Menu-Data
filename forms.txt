@@ -1,6 +1,0 @@
-Forms & Formats:=*MENUTITLE
-Formalize.me:=open http://formalize.me/
-Javascript Form Validation:=open http://www.tizag.com/javascriptT/javascriptform.php
-Yaml & Groovy:=open http://groovy.codehaus.org/Yaml+and+Groovy
-YAML for Java Developers:=open http://www.devx.com/Java/Article/38509/1954
-Yaml Wiki:=open http://en.wikipedia.org/wiki/YAML

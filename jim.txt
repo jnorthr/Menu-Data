@@ -1,4 +1,0 @@
-J i m ' s   M e n u Options:=*MENUTITLE
-url pattern matches multiple servlets:=open http://stackoverflow.com/questions/7938138/what-if-url-pattern-matches-multiple-servlets
-URL mapping for static content in web services:=open http://www.kuligowski.pl/java/rest-style-urls-and-url-mapping-for-static-content-apache-tomcat,5 
-Online JSON Validator:=open http://jsonlint.com/
